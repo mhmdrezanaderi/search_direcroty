@@ -34,4 +34,4 @@ Duplicate Removal: The program will then search for duplicate files and remove t
 Final Directory Size: Finally, the program displays the size of the directory after removing duplicates.
 
 ## Author
-This program was created by ** Mohamadreza Naderi _ Bahar Hemati **.
+This program was created by **Mohamadreza Naderi _ Bahar Hemati**.

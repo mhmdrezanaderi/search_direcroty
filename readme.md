@@ -1,4 +1,5 @@
 File Search and Duplicate Removal Utility
+
 This is a C program designed to search for files in a specified directory and its subdirectories, and it can remove duplicate files found within that directory. The program provides functionality to count the number of files of different types in the directory and its subdirectories.
 
 Features
@@ -10,7 +11,9 @@ Compilation and Execution
 To compile the program, use the following command:
 
 bash
+
 Copy code
+
 gcc -o file_search_and_remove file_search_and_remove.c -lpthread -lcrypto
 To execute the program, run the compiled executable with the following command:
 
